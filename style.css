@@ -1,0 +1,46 @@
+body {
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+.position {
+    position: auto;
+ 
+    
+}
+
+.position1 {
+    position: absolute;
+    left: 130px;
+    top: 105px;
+    
+}
+.position2 {
+    position: absolute;
+    left: 270px;
+    top: 135px;
+    
+}
+
+.phara {
+    size: 150px;
+    font: bolder;
+}
+h3 {
+    font: bolder;
+    color:white;
+    background-color: black;
+}
+
+.center {
+    text-align: center;
+    font: bold;
+    font-size: 30px;
+    color:yellow;
+}
+
+
